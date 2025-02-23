@@ -85,4 +85,3 @@ Recentemente comecei a usar Linux (EndeavourOS) 🐧.
 <img height="12"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jwols27&locale=pt-br&layout=compact&card_width=300&langs_count=6&theme=shades-of-purple" height="200" alt="languages graph"  />
 </div>
-</div>
