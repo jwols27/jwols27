@@ -1,3 +1,7 @@
+<svg fill="none" viewBox="0 0 800 800" width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <link rel="stylesheet" type='text/css' href="https://www.nerdfonts.com/assets/css/webfont.css" />
 
@@ -39,7 +43,6 @@ Recentemente comecei a usar Linux (EndeavourOS) 🐧.
 </div>
 
 <img height="20"/>
-<hr style="margin-bottom: 16px"/>
 
 ###
 
@@ -65,3 +68,6 @@ Recentemente comecei a usar Linux (EndeavourOS) 🐧.
   <img src="https://github-readme-stats.vercel.app/api?username=jwols27&card_width=350&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=shades-of-purple&custom_title=Estatísticas - Github" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jwols27&locale=pt-br&layout=compact&card_width=320&langs_count=6&theme=shades-of-purple" height="150" alt="languages graph"  />
 </div>
+</div>
+</foreignObject>
+</svg>
