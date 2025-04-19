@@ -36,6 +36,8 @@ Recentemente comecei a usar Linux (EndeavourOS <img src="https://raw.githubuserc
 	<img width=0/>
 	<img src="https://skillicons.dev/icons?i=flutter" alt="dart" title="Dart" />
 	<img width=0/>
+	<img src="https://skillicons.dev/icons?i=php" alt="php" title="PHP" />
+	<img width=0/>
 	<img src="https://skillicons.dev/icons?i=autocad" alt="autocad" title="AutoCAD" />
 </div>
 
