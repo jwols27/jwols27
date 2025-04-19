@@ -24,6 +24,8 @@ Recentemente comecei a usar Linux (EndeavourOS <img src="https://raw.githubuserc
 	<img width=0/>
 	<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" alt="sqlserver" title="SQL Server" />
 	<img width=0/>
+	<img src="https://skillicons.dev/icons?i=postgres" alt="postgres" title="PostgreSQL" />
+	<img width=0/>
 	<img src="https://skillicons.dev/icons?i=react" alt="react" title="React" />
 	<img width=0/>
 	<img src="https://skillicons.dev/icons?i=python" alt="python" title="Python" />
