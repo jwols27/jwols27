@@ -61,7 +61,7 @@ Recentemente comecei a usar Linux (EndeavourOS <img src="https://raw.githubuserc
 <a href="https://linkedin.com/in/júlia-patricia-wolschick-a22699261" target="_blank" >LinkedIn</a>
 </td>
 <td align="center">
-<a href="mailto:juliapwols@gmail.com" target="_blank" title="juliapwols@pm.me">E-Mail</a>
+<a href="mailto:juliapwols@pm.me" target="_blank" title="juliapwols@pm.me">E-Mail</a>
 </td>
 <td align="center">
 <a href="https://bsky.app/profile/juwuba.xyz" target="_blank">Bluesky</a>
