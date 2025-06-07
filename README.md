@@ -53,7 +53,7 @@ Recentemente comecei a usar Linux (EndeavourOS <img src="https://raw.githubuserc
 <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="linkedin" title="LinkedIn"/>
 </td>
 <td align="center" width=100>
-<img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="gmail" title="juliapwols@gmail.com"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=proton" alt="proton mail" title="juliapwols@pm.me"/>
 </td>
 <td align="center" width=100>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=bluesky" alt="bluesky" title="Bluesky"/>
@@ -65,7 +65,7 @@ Recentemente comecei a usar Linux (EndeavourOS <img src="https://raw.githubuserc
 <a href="https://linkedin.com/in/júlia-patricia-wolschick-a22699261" target="_blank" >LinkedIn</a>
 </td>
 <td align="center">
-<a href="mailto:juliapwols@pm.me" target="_blank" title="juliapwols@pm.me">E-Mail</a>
+<a href="mailto:juliapwols@pm.me" target="_blank" title="juliapwols@pm.me">E-mail</a>
 </td>
 <td align="center">
 <a href="https://bsky.app/profile/juwuba.xyz" target="_blank">Bluesky</a>
