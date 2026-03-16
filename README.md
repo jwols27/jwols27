@@ -1,13 +1,12 @@
 ## 🦈 🐸 🦈 Bem-vindo(a) ao perfil da Júlia 🦈 🐸 🦈
 
-<img align="right" height="150" src="burg.png" title="Ramlethal Valentine aproveitando um hambúrguer" />
+<img align="right" height="150" src="burg.png" title="Ramlethal Valentine saboreando um hambúrguer" />
 
-Me chamo Júlia e eu me divirto programando 😄
+Eu sou a Júlia e eu me divirto programando 😄
 
-Tenho experiência em fazer aplicativos com Flutter e sistemas Web com React. Também já trabalhei com .NET profissionalmente.
-Fora meu conhecimento de programação também já trabalhei bastante com AutoCAD na produção de projetos de pavimentação.
+Tenho experiência principalmente com desenvolvimento de sistemas ERP. Já trabalhei profissionalmente com .NET, PHP, React, Vue, e Flutter.
 
-Recentemente comecei a usar Linux (EndeavourOS <img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/EndeavourOS-icon.png" height="16" alt="endeavourOS" title="EndeavourOS" />), mas ainda mantenho o Windows <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="14" alt="windows 11" title="Windows 11" /> instalado para usar o AutoCAD. 
+Uso Linux no meu computador pessoal, especificamente EndeavourOS <img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/EndeavourOS-icon.png" height="16" alt="endeavourOS" title="EndeavourOS" />, e trabalho com um Mac <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Apple_Computer_Logo_rainbow.svg" height="16" alt="apple" title="macOS" /> atualmente. 
 
 <div>
 	<img src="https://skillicons.dev/icons?i=git" alt="git" title="Git" />
@@ -28,6 +27,12 @@ Recentemente comecei a usar Linux (EndeavourOS <img src="https://raw.githubuserc
 	<img width=0/>
 	<img src="https://skillicons.dev/icons?i=react" alt="react" title="React" />
 	<img width=0/>
+	<img src="https://skillicons.dev/icons?i=vue" alt="vue" title="Vue" />
+	<img width=0/>
+	<img src="https://skillicons.dev/icons?i=php" alt="svelte" title="Svelte" />
+	<img width=0/>
+	<img src="https://skillicons.dev/icons?i=graphql" alt="graphql" title="GraphQL" />
+	<img width=0/>
 	<img src="https://skillicons.dev/icons?i=python" alt="python" title="Python" />
 	<img width=0/>
 	<img src="https://skillicons.dev/icons?i=cs" alt="csharp" title="C#" />
@@ -39,8 +44,6 @@ Recentemente comecei a usar Linux (EndeavourOS <img src="https://raw.githubuserc
 	<img src="https://skillicons.dev/icons?i=flutter" alt="dart" title="Dart" />
 	<img width=0/>
 	<img src="https://skillicons.dev/icons?i=php" alt="php" title="PHP" />
-	<img width=0/>
-	<img src="https://skillicons.dev/icons?i=autocad" alt="autocad" title="AutoCAD" />
 </div>
 
 <h3>Links</h3>
