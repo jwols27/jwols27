@@ -29,7 +29,7 @@ Uso Linux no meu computador pessoal, especificamente EndeavourOS <img src="https
 	<img width=0/>
 	<img src="https://skillicons.dev/icons?i=vue" alt="vue" title="Vue" />
 	<img width=0/>
-	<img src="https://skillicons.dev/icons?i=php" alt="svelte" title="Svelte" />
+	<img src="https://skillicons.dev/icons?i=svelte" alt="svelte" title="Svelte" />
 	<img width=0/>
 	<img src="https://skillicons.dev/icons?i=graphql" alt="graphql" title="GraphQL" />
 	<img width=0/>
